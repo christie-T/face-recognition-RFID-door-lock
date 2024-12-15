@@ -34,7 +34,7 @@ raspi-config
 Then, enable the camera in config.
 
 
-# Running the program
+# 💻 Running the program
 
 Put images of the face you want recognized in 'faces' directory
 
