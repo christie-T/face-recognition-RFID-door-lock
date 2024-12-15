@@ -44,3 +44,5 @@ Then, run:
 python3 encode_faces.py
 python3 exe.py
 ```
+
+Tap authenticated RFID, put the right face in frame, yay it works yay the door opened
