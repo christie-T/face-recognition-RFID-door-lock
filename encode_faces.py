@@ -1,5 +1,3 @@
-# code for encode, credit to ravirajsinh45
-
 import face_recognition
 import imutils
 import pickle
@@ -13,6 +11,7 @@ print('Loading known faces...')
 known_faces = []
 known_names = []
 
+# code for encode, credit to ravirajsinh45
 for name in os.listdir(KNOWN_FACES_DIR):
 
     for filename in os.listdir(f'{KNOWN_FACES_DIR}/{name}'):
