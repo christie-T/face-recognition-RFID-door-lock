@@ -6,7 +6,7 @@ import cv2
 import os
 
 
-KNOWN_FACES_DIR = 'dataset'
+KNOWN_FACES_DIR = 'faces'
 
 print('Loading known faces...')
 known_faces = []
