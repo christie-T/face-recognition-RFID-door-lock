@@ -2,7 +2,7 @@
 
 # 🛠 set-up
 
-## 1. install Raspbian onto Raspberry Pi 3
+## 1. Install Raspbian onto Raspberry Pi 3
 https://www.raspberrypi.com/software/
 
 ## 2. Open Terminal and run
