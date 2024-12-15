@@ -21,8 +21,12 @@ This might take a while. PLEASE increase swapfile memory (I used 1024mb) for ins
 
 https://akashrajpurohit.com/blog/increase-swap-memory-on-raspberry-pi/#:~:text=Swap%20file%20is%20a%20file,with%20limited%20amount%20of%20RAM.
 
+## 4. Install other dependencies (for servo, RFID)
+```bash
+pip install -r 'requirements.txt'
+```
 
-## 4. Extra Libraries
+## 5. Extra Libraries
 ```bash
 sudo pip3 install imutils pypickle
 raspi-config
